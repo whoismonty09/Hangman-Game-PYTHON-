@@ -1,7 +1,7 @@
 # 🎮 Hangman Game (Python)
 
 ## 📌 Project Overview
-This project is a Python based Advanced Hangman Game where players can choose a category such as animals, countries, or movies. Each word comes with a hint to help the player guess correctly. The player must guess the word letter by letter within limited attempts to win the game.
+This project is a Python based Hangman Game where players can choose a category such as animals, countries, or movies. Each word comes with a hint to help the player guess correctly. The player must guess the word letter by letter within limited attempts to win the game.
 
 ---
 
